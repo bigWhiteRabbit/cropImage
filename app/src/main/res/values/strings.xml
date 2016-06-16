@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">CropImage</string>
+    <string name="action_settings">Settings</string>
+    <string name="text_description">共有 %1$s 个图片需要处理</string>
+    <string name="text_start_crop">开始剪切</string>
+    <string name="text_open_crop">打开文件夹</string>
+    <string name="text_refresh">刷新</string>
+    <string name="text_stop_crop">停止</string>
+    <string name="text_progress">当前正在处理 %1$s </string>
+    <string name="text_num_progress">%1$d/%2$d</string>
+    <string name="text_crop_complete">全部处理完成</string>
+
+    <string name="text_src_tips">请将原图片放在 %1$s 目录下，剪切后图片存放在 %2$s 目录下</string>
+    <string name="text_input_width">剪切宽度：</string>
+    <string name="text_input_height">剪切高度：</string>
+    <string name="text_input_radius">圆角半径：</string>
+
+    <string name = "card_width">1440</string>
+    <string name = "card_height">908</string>
+    <string name = "card_radius">60</string>
+</resources>
